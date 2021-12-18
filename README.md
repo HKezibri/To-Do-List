@@ -7,9 +7,9 @@ Réalisation d'une petite application web to-do list avec le micro framework fla
 - Etablir la connexion entre Mongodb et Flask
 - Ajouter les tâches 
 - Afficher les tâches
-- Distinguer entre les tâches compléter et les non compléter
-- Supprimer les tâches compléter seulement 
-- Supprimer toutes les tâches (compléter/non compléter) 
+- Distinguer entre les tâches complétées et les non complétées
+- Supprimer les tâches complétées seulement 
+- Supprimer toutes les tâches (complétées/non complétées) 
 ```
 
 ## Aperçu sur l'application web
