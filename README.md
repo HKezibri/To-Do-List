@@ -11,7 +11,7 @@ Réalisation d'une petite application web to-do list avec le micro framework fla
 - Supprimer toutes les taches (compléter/non compléter) 
 ```
 
-## aperçu sur l'application web
+## Aperçu sur l'application web
 <img src="./captures/1.PNG" alt="" />
 <img src="./captures/2.PNG" alt="" />
 
