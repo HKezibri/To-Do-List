@@ -13,6 +13,6 @@ Réalisation d'une petite application web to-do list avec le micro framework fla
 ```
 
 ## Aperçu sur l'application web
-<img src="/captures/1.PNG" alt="" />
-<img src="./captures/2.PNG" alt="" />
+<img src="/Captures/1.PNG" alt="" />
+<img src="./Captures/2.PNG" alt="" />
 
