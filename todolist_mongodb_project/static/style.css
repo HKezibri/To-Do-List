@@ -1,0 +1,33 @@
+body {
+	background: black;
+	font-family: 'Oswald', 'Futura', sans-serif;
+}
+h2{
+	color: grey;
+}
+#wrapper {
+	margin-top: 10% ;
+}
+#content {
+	background: black;
+	padding: 25px;
+}
+#content > h2 {
+	font-size: 18px;
+	text-align: center;
+	padding-top: 0;
+}
+.dlet {
+	margin-top: 10px;
+}
+.myliste {
+	margin-top: 20px;
+}
+.task-completed {
+	text-decoration: line-through;
+	background: rgba(149, 165, 166, .3);
+}
+footer {
+	margin-top: 20px;
+	color: white;
+}
