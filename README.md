@@ -2,7 +2,7 @@
 ## Sujet
 Réalisation d'une petite application web to-do list avec le micro framework flask et MongoDB sur visual studio.  
 
-##Objectifs
+## Objectifs
 ```
 - Etablir la connexion entre Mongodb et Flask
 - Ajouter les taches 
